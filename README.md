@@ -5,10 +5,11 @@ The programes for captured RGB-D sequence by multiple Kinect Azures (https://doc
 X4D is the format for saving multiple RGB-D seuqences.
 
 # Requriment
-・Kinect Azure SDK
+・Kinect Azure SDK  
 ・OpenCV ( over 4.0)
 
 # x4d format
 x4d is the format for saving multiple RGB-D seuqneces.
 
---------------- 
+---------------
+![Image 1](images/x4d.png)
